@@ -21,6 +21,7 @@ Follow the next requirements to pass the tests:
 6. The `Tabs` component should render the content of the active tab in the element with `data-cy="TabContent"`.
 7. Call `onTabSelected` only when the user selects a non-active tab.
 8. Use the title of the active tab in the `<h1>` of the `App` component in the following format: `Selected tab is Tab 1`.
+9. 
 
 ## Instructions
 
